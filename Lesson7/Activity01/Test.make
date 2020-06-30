@@ -1,4 +1,4 @@
-//Adjust for different directory structure -- BNA
+#Adjust for different directory structure -- BNA
 #g++ -c -g -Wall ../Util.cpp -I../
 g++ -c -g -Wall Util.cpp
 
